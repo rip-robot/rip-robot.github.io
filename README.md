@@ -11,7 +11,7 @@ This repository contains the project page for **Robust Instant Policy**, prepare
 To preview or modify the site locally:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/leader1313/rip.github.io.git
+   git clone https://github.com/rip-robot/rip-robot.github.io.git
    ```
 2. Open the folder in your editor.
 3. Serve the files through a simple HTTP server (e.g., `python -m http.server`) or open `index.html` directly in your browser.
